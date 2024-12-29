@@ -73,8 +73,8 @@ def get_scatter_graph(entered_site, payload_mass):
     #Input(component_id='payload-slider', component_property='value'): This line connects the value of the payload slider
     # to the payload_mass argument of the get_payload_chart function. #When the user changes the slider, 
     # the selected range (a list of two values [min_value, max_value]) is passed as payload_mass to the callback function.
-    #filter_mask = (spacex_df['Payload Mass (kg)'] >= payload_mass[0]) & (spacex_df['Payload Mass (kg)'] >= payload_mass[1])
-    #filter_mask = spacex_df[spacex_df['Payload Mass (kg)'].between(payload_mass[0], payload_mass[1])]
+    
+    
 
     if entered_site == 'All sites':
         scatter_df = spacex_df[(spacex_df['Payload Mass (kg)'] >= payload_mass[0]) & (spacex_df['Payload Mass (kg)'] <= payload_mass[1])]
