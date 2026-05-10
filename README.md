@@ -23,4 +23,4 @@ In this IBM's capstone project, I am undertaking the role of a data scientist wo
 2. Increasing number of 1st stage successful landing shows that feedback from previously failed outcomes are considered for improvements
 3. Launch sites are closely located to coastlines in case of launch failes to land in oceans away from civilian proximities
 4. All ML models have similar score around 83%
-5. Inded, the price of the rocket lunch can be predicted by estimating if the 1st stage would land successfully.
+5. Indeed, the price of the rocket lunch can be predicted by estimating if the 1st stage would land successfully.
