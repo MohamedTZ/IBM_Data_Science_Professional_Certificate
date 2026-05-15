@@ -18,6 +18,8 @@ In this IBM's capstone project, I am undertaking the role of a data scientist wo
 - Interactive visuals
 - Predictive analysis (classification ML models)
 
+  **For detailed analysis, please see presentation slides inside the folder 10_Applied_Data_Science_Capstone_Project**
+
 ## Conclusions
 1. Launches from Kennedy Space Center Launch site are relatively more successful
 2. Increasing number of 1st stage successful landing shows that feedback from previously failed outcomes are considered for improvements
